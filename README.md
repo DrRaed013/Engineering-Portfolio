@@ -2,8 +2,8 @@
 My journey to becoming an aerospace engineer. Here I document my Arduino-based projects.
 
 ## Projects
-- [ ] Meteorological Station "Orbit-1"
-- [ ] Autonomous Rover "Sputnik-Bot"
+- [ ] Meteorological Station "Meteor-1"
+- [ ] Autonomous Rover "Rover-Bot"
 - [ ] Balance System "Stellar-Balance"
 
 ## Current Status
